@@ -1,0 +1,12 @@
+# insert alias definitions below here which will be called by .bashrc
+alias k="kubectl"
+alias ka="kubectl apply"
+alias kgs="kubectl get services"
+alias kgd="kubectl get deployments"
+alias kgp="kubectl get pods"
+alias g="gcloud"
+alias gcl="gcloud container clusters list"
+alias gcomp="gcloud compute"
+alias gs="gsutil"
+alias zones="gcloud compute zones list"
+alias inst="gcloud compute instances"
